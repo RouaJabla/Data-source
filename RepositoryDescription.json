@@ -1,0 +1,12 @@
+[    
+     {
+      "name": "ARAS",
+      "headerLable": "Activity",
+      "fileType": "single",
+      },
+      {
+      "name": "HHAR",
+      "headerLable": "gt",
+      "fileType": "single",
+      }
+]
