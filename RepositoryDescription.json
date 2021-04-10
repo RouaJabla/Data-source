@@ -6,7 +6,7 @@
       },
       {
       "name": "HHAR",
-      "headerLable": "gt",
+      "headerLable": "Label",
       "fileType": "single",
       }
 ]
