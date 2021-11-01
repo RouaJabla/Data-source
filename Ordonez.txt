@@ -1,1 +1,20 @@
-magnetic sensor; electric sensor; flush sensor, PIR
+=============================
+OrdonezB DATASET DESCRIPTION
+=============================
+Home setting: 5 rooms house
+Number of labelled days: 21 days
+	Labels (ADLs included): Leaving, Toileting, Showering, Sleeping, Breakfast, Lunch, Dinner, Snack, Spare_Time/TV, Grooming
+Number of sensors: 12 sensors
+	Sensors: 	PIR: Shower, Basin, Door Kitchen, Door Bathroom, Door Bedroom
+				Magnetic: Maindoor, Fridge, Cupboard
+				Flush: Toilet
+				Pressure: Seat, Bed
+				Electric: Microwave 
+				
+				
+				
+This dataset comprises information regarding the ADLs performed by two users on a daily basis in their
+own homes. This dataset is composed by two instances of data, each one corresponding to a different
+user and summing up to 35 days of fully labelled data. Each instance of the dataset is described by
+three text files, namely: description, sensors events (features), activities of the daily living (labels).
+Sensor events were recorded using a wireless sensor network and data were labelled manually.
