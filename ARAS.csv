@@ -1,28 +1,28 @@
 Sensor,Place,Activity
-Photocell ,Wardrobe,Other
-Photocell ,Couch,Going Out
-IR ,TV receiver,Preparing Breakfast
-Force Sensor ,Couch,Having Breakfast
-Force Sensor ,Couch,Preparing Lunch
-Distance  ,Chair,Having Lunch
-Distance,Chair,Preparing Dinner
-Photocell ,Fridge,Having Dinner
-Photocell,Kitchen Drawer,Washing Dishes
-Photocell,Wardrobe,Having Snack
-Photocell,Bathroom Cabinet,Sleeping
-Contact Sensor ,House Door,Watching TV
-Contact Sensor,Bathroom Door,Studying
-Contact Sensor ,Shower Cabinet Door,Having Shower
-Sonar Distance ,Hall,Toileting
-Sonar Distance ,Kitchen,Napping
-Distance,Tap,Using Internet
-Distance,Water Closet,Reading Book
-Temperature  ,Kitchen,Laundry
-Force Sensor ,Bed,Shaving
-Photocell,Bathroom Cabinet,Brushing Teeth
-Force Sensor ,Couch,Talking on the Phone
-Force Sensor ,Couch,Listening to Music
-Distance,Water Closet,Cleaning
-Force Sensor ,Couch,Having Conversation
-Contact Sensor ,House Door,Having Guest
-Photocell ,Wardrobe,Changing Clothes
+Photocel,Wardrobe,Other
+Photocell,Couch,Going_Out
+IR,TV_receiver,Preparing_Breakfast
+Force_Sensor,Couch,Having_Breakfast
+Force_Sensor,Couch,Preparing_Lunch
+Distance,Chair,Having_Lunch
+Distance,Chair,Preparing_Dinner
+Photocell,Fridge,Having_Dinner
+Photocell,Kitchen_Drawer,Washing_Dishes
+Photocell,Wardrobe,Having_Snack
+Photocell,Bathroom_Cabinet,Sleeping
+Contact_Sensor,House_Door,Watching TV
+Contact_Sensor,Bathroom_Door,Studying
+Contact_Sensor,Shower_Cabinet_Door,Having_Shower
+Sonar_Distance,Hall,Toileting
+Sonar_Distance,Kitchen,Napping
+Distance,Tap,Using_Internet
+Distance,Water_Closet,Reading_Book
+Temperature,Kitchen,Laundry
+Force_Sensor,Bed,Shaving
+Photocell,Bathroom_Cabinet,Brushing_Teeth
+Force_Sensor,Couch,Talking_on_the_Phone
+Force_Sensor,Couch,Listening_to_Music
+Distance,Water_Closet,Cleaning
+Force_Sensor,Couch,Having_Conversation
+Contact_Sensor,House_Door,Having_Guest
+Photocell,Wardrobe,Changing_Clothes
