@@ -1,7 +1,7 @@
 ------------- Description ------------
 User performs Activity.
 Activity is performed by User.
-User such as a, has Device.
+User including a has Device.
 Activity such as bike, sit, stand, walk, stairsup and stairsdown.
 ------------- Accelerometer Samples ------------
 Index is the row number.
