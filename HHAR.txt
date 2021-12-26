@@ -1,25 +1,5 @@
-The Heterogeneity Dataset for Human Activity Recognition from Smartphone and Smartwatch sensors consists of two datasets devised to investigate sensor heterogeneities' impacts on human activity recognition algorithms (classification, automatic data segmentation, sensor fusion, feature extraction, etc). The datasets were used for the results and analyses produced in [1].
-Activity recognition data set
-
-The dataset contains the readings of two motion sensors commonly found in smartphones. Reading were recorded while users executed activities scripted in no specific order carrying smartwatches and smartphones.
-Activities: ‘Biking’, ‘Sitting’, ‘Standing’, ‘Walking’, ‘Stair Up’ and ‘Stair down’.
-Sensors: Sensors: Two embedded sensors, i.e., Accelerometer and Gyroscope, sampled at the highest frequency the respective device allows.
-Devices: 4 smartwatches (2 LG watches, 2 Samsung Galaxy Gears)
-8 smartphones (2 Samsung Galaxy S3 mini, 2 Samsung Galaxy S3, 2 LG Nexus 4, 2 Samsung Galaxy S+)
-Recordings: 9 users
-
-Recording scenario
-===============
-
-The activity recognition environment and scenario has been designed to generate many activity primitives, yet in a realistic manner. Users took 2 different routes for the biking and walking, and 2 different set of stairs were used for the stairs up and down.
-
-Still experiment data set
-===================
-
-Accelerometer recordings as above but with devices lying still, in 6 different orientations. Devices used comprise 31 smartphones, 4 smartwatches and 1 tablet, representing 13 different models from 4 manufacturers, running variants of Android and iOS.
-
-Activity recognition data set
-accelerometer Samples ------------
-The Phones_accelerometer.csv contains all smartphone accelerometer samples from all devices and users.
-The csv file consist of the following columns:
-'Index', 'Arrival_Time', 'Creation_Time', 'x', 'y', 'z', 'User', 'Model', 'Device', 'gt'
+Activities including ‘Biking’, ‘Sitting’, ‘Standing’, ‘Walking’, ‘Stair Up’ and ‘Stair down’.
+Sensors: Two embedded sensors such as Accelerometer and Gyroscope sampled at the highest frequency possible by the device.
+Arrival_Time is the time when the measurement arrived to the sensing application.
+Creation_Time is the time when the OS attaches to the sample.
+Label: The activity that is performed by the user: bike sit, stand, walk, stairsup and stairsdown.
