@@ -1,5 +1,10 @@
-Activities including ‘Biking’, ‘Sitting’, ‘Standing’, ‘Walking’, ‘Stair Up’ and ‘Stair down’.
-Sensors: Two embedded sensors such as Accelerometer and Gyroscope sampled at the highest frequency possible by the device.
-Arrival_Time is the time when the measurement arrived to the sensing application.
-Creation_Time is the time when the OS attaches to the sample.
-Label: The activity that is performed by the user: bike sit, stand, walk, stairsup and stairsdown.
+------------- Description ------------
+User performs Activity.
+Activity is performed by User.
+User has Device.
+Activity such as bike, sit, stand, walk, stairsup and stairsdown.
+------------- Accelerometer Samples ------------
+Index is the row number.
+Arrival Time belongs to time when the measurement arrived to the sensing application.
+Creation Time belongs to time when the OS attaches to the sample.
+Attributes of Accelerometer are 'x' and 'y' and 'z'.
