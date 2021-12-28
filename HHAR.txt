@@ -9,5 +9,6 @@ Index is the row number.
 Time has Arrival_Time and Creation_Time.
 Arrival_Time belongs to Time when the measurement arrived to the sensing application.
 Creation_Time belongs to Time when the OS attaches to the sample.
-Attributes of Accelerometer are 'x' and 'y' and 'z'.
+Attributes of Accelerometer are 'Accelerometer_x' and 'Accelerometer_y' and 'Accelerometer_z'.
 Activity has Time.
+Accelerometer is a Sensor.
