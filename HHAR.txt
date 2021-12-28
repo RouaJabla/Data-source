@@ -6,9 +6,10 @@ User such as U1, U2 and U3.
 Activity such as bike, sit, stand, walk, stairsup and stairsdown.
 ------------- Accelerometer Samples ------------
 Index is the row number.
-Time has Arrival_Time and Creation_Time.
-Arrival_Time belongs to Time when the measurement arrived to the sensing application.
-Creation_Time belongs to Time when the OS attaches to the sample.
+Time has Arrival_Time.
+Time has Creation_Time.
+Arrival_Time belongs to Time.
+Creation_Time belongs to Time.
 Attributes of Accelerometer are 'Accelerometer_x' and 'Accelerometer_y' and 'Accelerometer_z'.
 Activity has Time.
-Accelerometer is a Sensor.
+Sensor such as Accelerometer and Gyroscope.
