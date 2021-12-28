@@ -11,3 +11,4 @@ Arrival_Time belongs to Time when the measurement arrived to the sensing applica
 Creation_Time belongs to Time when the OS attaches to the sample.
 Accelerometer is a Sensor.
 Attributes of Accelerometer are 'x' and 'y' and 'z'.
+Activity has Time.
